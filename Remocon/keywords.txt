@@ -1,0 +1,57 @@
+#######################################
+# Syntax Coloring Map SPI
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SPI	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+end	KEYWORD2
+transfer	KEYWORD2
+#setBitOrder	KEYWORD2
+setDataMode	KEYWORD2
+setClockDivider	KEYWORD2
+setMISO	KEYWORD2
+setMOSI	KEYWORD2
+setSCLK	KEYWORD2
+setSSEL	KEYWORD2
+mapfloat KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SPI_MODE0	LITERAL1
+SPI_MODE1	LITERAL1
+SPI_MODE2	LITERAL1
+SPI_MODE3	LITERAL1
+
+SPI_CONTINUE	LITERAL1
+SPI_LAST	LITERAL1
+
+pinLStick_X    LITERAL1
+pinLStick_Y    LITERAL1
+pinRStick_X    LITERAL1
+pinRStick_Y    LITERAL1
+pinLeftButton    LITERAL1
+pinRightButton     LITERAL1
+	    
+pinLeftSlider  LITERAL1
+pinCenterSlider LITERAL1
+pinRightSlider LITERAL1
+	    
+pinUp LITERAL1
+pinDown LITERAL1
+pinLeft LITERAL1
+pinRight LITERAL1
+pinA LITERAL1
+pinB LITERAL1
+	    
+pinRightPot LITERAL1
+pinLeftPot  LITERAL1
+pinConector LITERAL1
